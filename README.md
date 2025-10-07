@@ -1,6 +1,6 @@
 ![Captchino Logo](logo.png)
 
-# Captchino
+# Captchino v1.1.0
 
 AI-assisted Steps & Solution for any programming language.
 
