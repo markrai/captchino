@@ -8,7 +8,6 @@ AI-assisted Steps & Solution for any programming language.
 
 - Screen capture with AI analysis
   - Works with both OpenAI and Gemini accounts
-  - Model selection in Settings
 - Advanced Stealth Features
   - Hidden from the taskbar, system tray, and alt+tab
   - Always stays in secondary monitor, with hotkey to hide completely
